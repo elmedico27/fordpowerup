@@ -6,21 +6,34 @@ The version history of the Ford Power-Up updates for the Ford SYNC Version 4 and
 
 The Ford Power-Up updates have the ability to upgrade the user interface as well as reprogram module firmware within the vehicle. Ford expects to produce 33 million vehicles with Power-Up capability by 2028. Not all vehicles have the same software layout due to the differences in the user interfaces. SYNC 4 comes with an 8 or 12 inch horizontally oriented main display while SYNC 4a comes with a 12 or 15.5 inch vertically oriented main display.
 
+## BlueCruise
+
+The current version of BlueCruise is v1.3, [announced by Ford on July 13, 2023](https://www.at.ford.com/us/en/home/news-media/news/2023/7/blue-cruise-1-3-rollout.html).  Mustang Mach-E customers with model years 2021-2023 equipped with BlueCruise can receive the update to BlueCruise 1.3 via a Ford Power-Up software update once it starts to roll out in summer 2023.  (*Note:* vehicles equipped with BlueCruise 1.0 will be updated straight to BlueCruise 1.3, which includes all features of BlueCruise 1.2.)  Customers who placed an order after May 2, 2023, or the vehicle was produced after June 30, 2023, your Mustang Mach-E will be delivered from the factory with BlueCruise 1.3.
+
+- BlueCruise v1.2 features:
+  - Lane Change Assist (change lanes with a tap of the turn signal)
+  - Predictive Speed Assist (adjust vehicle speed for road curves, roundabouts and more)
+  - In-Lane Repositioning (helps hands-free highway driving feel more natural by keeping the vehicle in its lane while subtly shifting its position away from vehicles in adjacent lanes, especially large semi trucks)
+- BlueCruise v1.3 features:
+  - Fewer disengagements through curves and narrow lanes
+
+#### BlueCruise 1.3 Announcements and Discussion
+
+- [LinkedIn - Sammy Omari, Ford Executive Director of ADAS](https://www.linkedin.com/pulse/rolling-out-bluecruise-13-how-we-using-data-improve-software-omari/)
+- [TechCrunch](https://techcrunch.com/2023/07/13/ford-releases-blue-cruise-1-3-hands-free-driver-assistance/)
+- [MachEForum.com](https://www.macheforum.com/site/threads/coming-soon-bluecruise-1-3.29252/)
+
 ## Future features
 
 Ford has publicly discussed enhancements for future Power-Up updates. The precise timing and grouping of these updates has not been announced. These features may be released across several versions, and some or all of these features may not be released for certain vehicles, model years, or at all.
 
 These future features include:
 
-- BlueCruise updates (v1.2)
-  - Lane Change Assist (change lanes with a tap of the turn signal)
-  - Predictive Speed Assist (adjust vehicle speed for road curves, roundabouts and more)
-  - In-Lane Repositioning (helps hands-free highway driving feel more natural by keeping the vehicle in its lane while subtly shifting its position away from vehicles in adjacent lanes, especially large semi trucks)
+- FordPass app-controlled front trunk release button (for vehicles not shipped with it enabled)
 - Touchscreen Games
   - “Escape Room”
-- Add a “Pet Mode”
-- Add software controlled front trunk release button (for vehicles not shipped with it enabled)
-- Unlock 2021 model Mustang Mach-E usable battery to the same level as 2022 models (from 68 to 70 kWh and from 88 to 91 kWh)
+- Pet Mode
+
 
 ## Versions
 
