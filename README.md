@@ -29,7 +29,9 @@ Ford has publicly discussed enhancements for future Power-Up updates. The precis
 
 These future features include:
 
-- FordPass app-controlled front trunk release button (for vehicles not shipped with it enabled)
+- Charge Assist (rollout beginning September 4th, 2023)
+  - Find, start, and pay for public charging stations from inside the vehicle wihtout having to use a phone app
+  - In-vehicle display shows cost per kWh, estimate time to 80% SoC, and charger availability
 - Touchscreen Games
   - “Escape Room”
 - Pet Mode
