@@ -1,4 +1,4 @@
-### Ford Power-Up Version History
+## Ford Power-Up Version History
 
 The version history of the Ford Power-Up updates for the Ford SYNC Version 4 and 4a hardware developed by Ford Motor Company began with the release of the 2021 Mustang Mach-E in December 2020. This was simply referred to as over-the-air (OTA) updates until May 2021 when Ford adopted the "Ford Power-Up" name.
 
