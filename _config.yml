@@ -144,7 +144,7 @@ link-col: "#0077FF"
 hover-col: "#999999"
 footer-col: "#DDDDDD"
 footer-text-col: "#404040"
-footer-link-col: "#0077FF"
+footer-link-col: "#003478"
 footer-hover-col: "#999999"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
