@@ -126,6 +126,9 @@ navbar-var-length: false
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
 
+# Full width page
+full-width: true
+
 ######################################
 # --- Colours / background image --- #
 ######################################
