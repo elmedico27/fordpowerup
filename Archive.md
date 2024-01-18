@@ -1,6 +1,7 @@
 ---
-title: "Pre-3.x Versions"
-gh-repo: "elmedico27/fordpowerup"
+layout: page
+title: Pre-3.x Versions
+gh-repo: elmedico27/fordpowerup
 gh-badge: [star, watch, fork, follow]
 ---
 
