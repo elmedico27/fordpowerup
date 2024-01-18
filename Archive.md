@@ -1,3 +1,9 @@
+---
+title: "Pre-3.x Versions"
+gh-repo: "elmedico27/fordpowerup"
+gh-badge: [star, watch, fork, follow]
+---
+
 ## Pre-3.x Versions
 
 The following table summarizes the release history for the Ford SYNC Version 4 and 4a Power-Up software updates, prior to the release of 3.1.0 in July 2022.  See current versions on the [Main](README.md) page.
