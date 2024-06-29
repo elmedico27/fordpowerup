@@ -8,7 +8,7 @@ The Ford Power-Up updates have the ability to upgrade the user interface as well
 
 ## BlueCruise
 
-The current version of BlueCruise is v1.4, [released to Early Access members on December 14, 2023](https://www.macheforum.com/site/threads/bluecruise-1-4-is-here-did-anyone-else-get-this.32469/).  Mustang Mach-E customers with model years 2021-2023 equipped with BlueCruise can receive the update to BlueCruise 1.4 via Ford Power-Up software updates that began rolling out in summer 2023.  (*Note:* vehicles equipped with BlueCruise 1.0 will be updated straight to BlueCruise 1.4, which includes all features of BlueCruise 1.2.)  Customers who placed an order after May 2, 2023, or the vehicle was produced after June 30, 2023, your Mustang Mach-E will be delivered from the factory with BlueCruise 1.3.
+The current version of BlueCruise in official release is v1.3.  Customers who placed an order after May 2, 2023, or the vehicle was produced after June 30, 2023, your Mustang Mach-E will be delivered from the factory with BlueCruise 1.3.  Mustang Mach-E customers with model years 2021-2023 equipped with a prior version of BlueCruise can receive the update to BlueCruise 1.3 via a series of Ford Power-Up software updates that began rolling out in summer 2023, with enablement via a June 2024 update.  (*Note:* vehicles equipped with BlueCruise 1.0 will be updated straight to BlueCruise 1.3, which includes all features of BlueCruise 1.2.)  
 
 - BlueCruise v1.2 features:
   - Lane Change Assist (change lanes with a tap of the turn signal)
