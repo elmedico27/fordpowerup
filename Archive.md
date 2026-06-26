@@ -1,4 +1,4 @@
-<h2>Pre-4.x Versions</h2>
+<h2>Pre-7.x Versions</h2>
 
 The following table summarizes the release history for the Ford SYNC Version 4 and 4a Power-Up software updates, prior to the release of 4.1.1 in December 2022.  See current versions on the [Main](README.md) page.
 
